@@ -70,7 +70,7 @@ export default function Team({ match, history }) {
     }
 
     getData();
-  }, [id, history]);
+  }, [id, history, teams]);
 
   async function getPlayersData() {
     toast.info(`Looking for players named ${searchPlayer}`);
@@ -203,7 +203,7 @@ Page
                 <label htmlFor={teamType}>
                   Team type
                   {teamTypeOptions.map((option) => (
-                    <grid>
+                    <div>
                       <input
                         key={option}
                         type="radio"
@@ -213,8 +213,8 @@ Page
                         checked={teamType === option}
                         onChange={(e) => setTeamType(e.target.value)}
                       />
-                      <grid>{option}</grid>
-                    </grid>
+                      {option}
+                      </div>
                   ))}
                 </label>
                 <label
