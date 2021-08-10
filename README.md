@@ -1,5 +1,6 @@
 # Squad_management_tools
-Como utilizar?
+Como abrir a aplicação?
+
 Clone o projeto no seu computador (git clone), abra o terminal na pasta do projeto e digite o comando yarn para baixar e instalar todas as dependências.
 Após rodar o yarn, utilize o comando yarn start para inicar a aplicação. 
 
