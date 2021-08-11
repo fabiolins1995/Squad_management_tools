@@ -26,7 +26,7 @@ Phase 2:
 - Criação do componente TopTeams para armazenamento dos melhores times;
 - Criação do componente de estilo GroupMostLessPicked com mock de jogadores;
 - Criação do formulário de criação e edição de equipes na tela Teams;
-- Criação da lógica para chamar API para alimentar os campos necessários na criação dos times;
+- Criação da lógica para chamar API "Football API" para alimentar os campos necessários na criação dos times;
 
 Phase 3:
 
