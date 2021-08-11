@@ -31,9 +31,9 @@ Phase 2:
 Phase 3:
 
 - Criação das actions e reducer para gerenciamento de salvamento, edição e exclusão dos times;
-- Criação de componente de estilo SoccerField para implementação do campo na tela Teams;
+- Criação de componente de estilo SoccerField para implementação do SoccerField na tela Teams;
 - Criação do arquivo de configuração colors.js para controle das cores utilizadas;
-- Criação da lógica do controle de formações das esquipes no campo;
+- Criação da lógica do controle de formações das esquipes no SoccerField;
 - Criação de constante FormationsOptions formada por um array de objetos com formation e um array de objetos players passando os atributos i, position, x e y;
 
 
