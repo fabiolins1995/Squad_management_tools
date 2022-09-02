@@ -1,5 +1,6 @@
 # Squad_management_tools
 Desafio feito em React.Js para vaga de Dev Front-End.
+
 Como abrir a aplicação?
 
 Clone o projeto no seu computador (git clone), abra o terminal na pasta do projeto e digite o comando yarn para baixar e instalar todas as dependências.
